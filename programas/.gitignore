@@ -1,0 +1,8 @@
+# executaveis e arquivos objeto gerados na compilacao
+*.exe
+*.o
+*.obj
+*.out
+
+# base de dados criada pelo cadastro_nomes_persistente
+base.dat
